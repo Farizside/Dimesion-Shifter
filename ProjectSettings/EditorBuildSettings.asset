@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: d20ec63f95dc0134e84b01b885afd041
+  - enabled: 1
+    path: Assets/Scenes/World_Map.unity
+    guid: a5c15341dab41f14a921c84ec02bc563
+  - enabled: 1
+    path: Assets/Scenes/Stage_1_Prototype.unity
+    guid: c74b769a871295d4f8364692e1b7e852
+  - enabled: 1
+    path: Assets/Scenes/Stage_2_Prototype.unity
+    guid: 5506760bf3c74424daad42894bdc66a3
+  - enabled: 1
+    path: Assets/Scenes/Stage_3_Prototype.unity
+    guid: be9011b297b03cc4baabe7c290c77579
+  - enabled: 1
+    path: Assets/Scenes/Stage_4_Prototype.unity
+    guid: c6323a284171cb44a9ea846152a878bd
+  - enabled: 1
+    path: Assets/Scenes/Stage_5_Prototype.unity
+    guid: 358709206b34dad4d9af13e1ce46f7b1
+  - enabled: 1
+    path: Assets/Scenes/Stage_6_Prototype.unity
+    guid: 9ea7f64e8f0f2dd4098a593d522f15f8
+  - enabled: 1
+    path: Assets/Scenes/Stage_7_Prototype.unity
+    guid: 7c9070c73fd94134e9d0e98a7f89984a
+  - enabled: 1
+    path: Assets/Scenes/Stage_8_Prototype.unity
+    guid: 6adbc68d2f7e86f408e529555bd0c87d
+  - enabled: 1
+    path: Assets/Scenes/Stage_9_Prototype.unity
+    guid: 608655768be280245b104d83059f3d38
+  - enabled: 1
+    path: Assets/Scenes/Stage_10_Prototype.unity
+    guid: 04774782dfa3d3b46b8d8c130cf0067f
+  - enabled: 1
+    path: Assets/Scenes/Stage_11_Prototype.unity
+    guid: a75cdc50b6e8b7e429bbfbf726d1e1d5
+  m_configObjects: {}
