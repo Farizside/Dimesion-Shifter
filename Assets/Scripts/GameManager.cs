@@ -6,7 +6,7 @@ public class GameManager : MonoBehaviour
 
     public int dimensionShard;
     
-    [SerializeField] AudioSource changeStageSound;
+    //[SerializeField] AudioSource changeStageSound;
     [SerializeField] AudioSource shardCollectSound;
 
     private void Awake()
@@ -34,7 +34,7 @@ public class GameManager : MonoBehaviour
 
     public void PlayStageChangeSound()
     {
-        changeStageSound.Play();
+        //changeStageSound.Play();
     }
 
     public void PlayCollectShardSound()

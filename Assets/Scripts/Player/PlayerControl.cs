@@ -15,6 +15,7 @@ public class PlayerControl : MonoBehaviour
     [SerializeField] AudioSource runAudio;
     [SerializeField] AudioSource jumpAudio;
     [SerializeField] AudioSource inAirAudio;
+    [SerializeField] AudioSource bgmAudio;
 
     public GameObject panel;
 
@@ -102,6 +103,7 @@ public class PlayerControl : MonoBehaviour
         {
             runAudio.Play();
         }
+        
         
         gameAnimator.SetBool("isOnAir", !isGrounded);
     }
